@@ -1,0 +1,28 @@
+.middle {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+
+
+.img11:hover {
+    transform: scale(.8);
+}
+
+.flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+}
+
+.flex-container>div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+    align-content: center;
+}
+
+.anchor {
+    text-decoration: none;
+    color: #000;
+}
